@@ -4,7 +4,7 @@ Yhteisölliset työtilat Suomessa
 
 Miika Pietilä
 
----?image=https://github.com/hacklab-fi/pr/raw/master/presentations/valokuvat_esitykseen/Helsinki_elektroniikka_3Dtulostin.jpg
+---
 
 ## Hacklabit Suomessa
 
@@ -16,7 +16,9 @@ Maailmanlaajuisesti arviolta 1200-3000 tahoa.
 
 ---?image=https://github.com/hacklab-fi/pr/raw/master/presentations/valokuvat_esitykseen/Helsinki_elektroniikka_3Dtulostin.jpg
 
----
+---?image=https://github.com/hacklab-fi/pr/raw/master/presentations/valokuvat_esitykseen/Helsinki_kasityokerho.jpg
+
+
 
 ## Toiminta
 
@@ -65,6 +67,8 @@ Hacklab tarjoaa mahdollisuuden opetella
 uusia taitoja ilman aiempaa osaamista
 
 **Yhdessä oppiminen:** kuka tahansa voi opettaa, järjestää kursseja, tai jakaa osaamistaan esimerkiksi kirjoittaen, dokumentoiden tai valokuvaamalla
+
+!(https://github.com/hacklab-fi/pr/raw/master/presentations/valokuvat_esitykseen/Helsinki_koulutustila.jpg)
 
 ---
 
