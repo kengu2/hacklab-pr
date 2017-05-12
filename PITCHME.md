@@ -18,11 +18,11 @@ Maailmanlaajuisesti arviolta 1200-3000 tahoa.
 
 ## Toiminta
 
-Elektroniikka
-3D-tulostaminen
-Käsityöt ja kädentaidot
-Puu- ja metallityöt
-Yhdessä rakentamista
+* Elektroniikka
+* 3D-tulostaminen
+* Käsityöt ja kädentaidot
+* Puu- ja metallityöt
+* Yhdessä rakentamista
 
 ---
 
