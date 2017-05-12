@@ -68,7 +68,7 @@ uusia taitoja ilman aiempaa osaamista
 
 **Yhdessä oppiminen:** kuka tahansa voi opettaa, järjestää kursseja, tai jakaa osaamistaan esimerkiksi kirjoittaen, dokumentoiden tai valokuvaamalla
 
-!(https://github.com/hacklab-fi/pr/raw/master/presentations/valokuvat_esitykseen/Helsinki_koulutustila.jpg)
+![img](https://github.com/hacklab-fi/pr/raw/master/presentations/valokuvat_esitykseen/Helsinki_koulutustila.jpg)
 
 ---
 
