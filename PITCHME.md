@@ -59,7 +59,11 @@ Ja tärkeimpänä
  — Rakentelu, kädentaidot, uuden
 kokeileminen ja luovuus
 
+
+---?image=https://github.com/hacklab-fi/pr/raw/master/presentations/valokuvat_esitykseen/Helsinki_koulutustila.jpg
+
 ---
+
 
 ## Vertaisoppiminen
 
@@ -68,7 +72,8 @@ uusia taitoja ilman aiempaa osaamista
 
 **Yhdessä oppiminen:** kuka tahansa voi opettaa, järjestää kursseja, tai jakaa osaamistaan esimerkiksi kirjoittaen, dokumentoiden tai valokuvaamalla
 
-![img](https://github.com/hacklab-fi/pr/raw/master/presentations/valokuvat_esitykseen/Helsinki_koulutustila.jpg)
+
+---?image=https://github.com/hacklab-fi/pr/raw/master/presentations/valokuvat_esitykseen/Tampere_rakentelua_yhdessa.jpg
 
 ---
 
@@ -77,6 +82,11 @@ uusia taitoja ilman aiempaa osaamista
 Jäsentensä rahoittama sis. vuokrakulut ja hankinnat
 
 Koulutukset ja kurssit osallistujille pääsääntöisesti maksuttomia ja avoimia niin jäsenille kuin ulkopuolisille
+
+---?image=https://github.com/hacklab-fi/pr/raw/master/presentations/valokuvat_esitykseen/Tampere_uudet_tilat2015.jpg
+
+---
+![image](https://github.com/hacklab-fi/pr/raw/master/presentations/valokuvat_esitykseen/Turku_projekti.jpg)
 
 ---
 
@@ -93,6 +103,9 @@ Ohjasivat mm. Helsinki Hacklabin perustamista 2010
 
 Lisäksi suosituksia esimerkiksi päätöksentekoon, rahoitukseen ja ongelmatilanteiden selvittämiseen.
 
+---?image=https://github.com/hacklab-fi/pr/raw/master/presentations/valokuvat_esitykseen/Helsinki_metallityot.jpg
+
+
 ---
 ## Tulevaisuudennäkymät
 
@@ -102,3 +115,10 @@ Lisäksi suosituksia esimerkiksi päätöksentekoon, rahoitukseen ja ongelmatila
 * Pienempien yhdistysten toimintaedellytysten turvaaminen
 * Laajempi yhteistyö oppilaitosten kanssa
 * Kirjastot ja oppilaitokset perustavat omia työpajojaan – miten käy avoimuuden?
+
+---
+## Lisää?
+
+* hacklab.fi
+* vaasa.hacklab.fi
+ 
