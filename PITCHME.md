@@ -18,7 +18,7 @@ Maailmanlaajuisesti arviolta 1200-3000 tahoa.
 
 ---?image=https://github.com/hacklab-fi/pr/raw/master/presentations/valokuvat_esitykseen/Helsinki_kasityokerho.jpg
 
-
+---
 
 ## Toiminta
 
