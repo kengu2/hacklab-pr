@@ -4,7 +4,7 @@ Yhteisölliset työtilat Suomessa
 
 Miika Pietilä
 
----
+---?image=https://github.com/hacklab-fi/pr/raw/master/presentations/valokuvat_esitykseen/Helsinki_elektroniikka_3Dtulostin.jpg
 
 ## Hacklabit Suomessa
 
@@ -13,6 +13,8 @@ Toimintaa vuoden 2010 alusta lähtien. Ensimmäisenä Helsingissä ja Tampereell
 Nykyisin toimintaa yli kymmenessä kaupungissa.
 
 Maailmanlaajuisesti arviolta 1200-3000 tahoa.
+
+---?image=https://github.com/hacklab-fi/pr/raw/master/presentations/valokuvat_esitykseen/Helsinki_elektroniikka_3Dtulostin.jpg
 
 ---
 
